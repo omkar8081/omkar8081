@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkar8081
+<!--- 👋 Hi, I’m @omkar8081 --->
 - 👀 I’m interested in Web Dev
 <!--- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
